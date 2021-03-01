@@ -1,4 +1,4 @@
 # PokerDual
 Poker Dual game written in Python using PyQt5
 
-Run 'GameUI.\__init\__.py' to start the game
+Run _GameUI.\_\_init\_\_.py_ to start the game
